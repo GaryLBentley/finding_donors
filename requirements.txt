@@ -131,7 +131,6 @@ traitlets==5.9.0
 typing_extensions==4.5.0
 uri-template==1.2.0
 urllib3==1.25.11
-usf-helpers @ file:///C:/Users/gbp4100/source/repos/customer-product-matching/packages/usf_helpers-0.7.dev4-py3-none-any.whl
 wcwidth==0.2.6
 webcolors==1.12
 webencodings==0.5.1
